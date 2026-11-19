@@ -1,0 +1,9 @@
+# Normalise line endings: keep LF in the repository, whatever the OS
+* text=auto eol=lf
+
+# Binary artefacts
+*.pth binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary

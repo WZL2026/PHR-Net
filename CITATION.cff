@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "PHR-Net: Prior-Guided Parameter-Efficient High-Resolution Network for Retinal Vessel Segmentation"
+authors:
+  - family-names: Wang
+    given-names: Zelong
+  - family-names: Li
+    given-names: Lei
+  - family-names: Zhou
+    given-names: Jian
+  - family-names: Du
+    given-names: Xiuquan
+year: 2026
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Maxlong18/PHR-Net"

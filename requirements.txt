@@ -1,0 +1,17 @@
+# Core
+torch>=2.0.0
+torchvision
+numpy
+opencv-python
+scipy
+scikit-image
+scikit-learn
+matplotlib
+Pillow
+thop
+einops
+
+# Optional: only needed by the third-party baselines that use Transformers / Mamba
+# timm
+# mamba_ssm        # requires CUDA; a pure-PyTorch fallback is included (baselines_ext/mamba_fallback.py)
+# causal_conv1d

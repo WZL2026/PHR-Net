@@ -1,0 +1,27 @@
+# ---- data (never commit the datasets) ----
+Dataset/
+data/*/
+!data/README.md
+
+# ---- generated outputs ----
+logs/
+results/intermediate_features/
+results/preds_*/
+results/paper_figures/
+results/**/*.png
+results/**/*.jpg
+results/**/*.npy
+*.zip
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# ---- editors / os ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
